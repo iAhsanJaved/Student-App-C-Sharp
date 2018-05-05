@@ -1,0 +1,12 @@
+C:\Users\iAhsa\source\repos\Student System\Student System\bin\Debug\Student System.exe.config
+C:\Users\iAhsa\source\repos\Student System\Student System\bin\Debug\Student System.exe
+C:\Users\iAhsa\source\repos\Student System\Student System\bin\Debug\Student System.pdb
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student System.csprojResolveAssemblyReference.cache
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student_System.AddStudent.resources
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student_System.MainStudentSystem.resources
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student_System.Properties.Resources.resources
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student_System.UpdateStudent.resources
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student System.csproj.GenerateResource.Cache
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student System.csproj.CoreCompileInputs.cache
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student System.exe
+C:\Users\iAhsa\source\repos\Student System\Student System\obj\Debug\Student System.pdb
